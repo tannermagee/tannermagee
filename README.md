@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tannermagee
-- 👀 I’m interested in software engineering, app development, Ethereum, and personal growth.
+- 👀 I’m interested in software engineering, app development, Ethereum, Unity, and personal growth.
 - 🌱 I’m currently learning Flutter, React, getting different software engineering certifications, grad school.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
